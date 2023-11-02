@@ -49,7 +49,7 @@ Hi!😄 I'm a first year PH.D. student of [School of Computer Science](https://c
 
 ## Teaching Assistant
 
-* Introduction to Computing A (For undergraduate students, Fall, 2o23)
+* Introduction to Computing A (For undergraduate students, Fall, 2023)
 
 ## Correspondence
 
